@@ -51,5 +51,9 @@ Evaluate on test data
 The model achieved perfect classification on the test set, demonstrating strong ability to distinguish between real and fake news articles in this dataset.
 
 
+# Author
+Sanika Govardhan Sangvai
 
+# License
+This project is open-source. Feel free to use and modify the code as needed.
 
