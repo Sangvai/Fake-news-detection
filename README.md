@@ -50,6 +50,6 @@ Evaluate on test data
 **Results**
 The model achieved perfect classification on the test set, demonstrating strong ability to distinguish between real and fake news articles in this dataset.
 
-Note: The 100% accuracy suggests potential data leakage or an overly simple test set - further validation with different datasets is recommended for production use.
+
 
 
